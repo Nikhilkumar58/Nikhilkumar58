@@ -59,7 +59,7 @@ timeline
     title Curiosity to Systems
     9th Grade : First device
               : "How does this work?"
-    11th Grade : Commerce stream
+    11th Grade : Biology stream
                : Started coding
                : C++ and Python
     2023 : ADCA
