@@ -46,7 +46,7 @@
 <div align="center">
 
 **BCA student. Self-taught developer. Builder of systems.**<br/>
-<sub>Started in commerce, chose to build instead of following the usual path.</sub>
+<sub>Started in biology, chose to build instead of following the usual path.</sub>
 
 </div>
 
